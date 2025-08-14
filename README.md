@@ -1,2 +1,1 @@
-# tec
-#odd or even
+#PROJECT FILEs
